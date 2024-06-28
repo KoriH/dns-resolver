@@ -1,2 +1,1 @@
-# gme-sentiment-watcher
-diamond hands!
+recurse and do dns lookup
